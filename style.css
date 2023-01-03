@@ -1,0 +1,152 @@
+
+#title{
+    background-color: #d52b5e; 
+    color: #fff; 
+  }
+  html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+  h1{
+    /* font-family: 'Montserrat', sans-serif; */
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 900;
+  }
+  h2{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    font-weight: bold;
+  }
+  .container-fluid{
+      padding:3% 15% 7%;
+  }
+  .navbar{
+    padding: 0  0  4.5rem;
+  }
+  .navbar-brand{
+    font-size: 35px;
+    font-weight: 600;
+    
+  }
+  
+  
+  .nav-item{
+    padding: 0 18px;
+  }
+  .nav-link{
+    font-size: 1.2rem;
+    
+  }
+  
+  /* Download buttons */
+  
+  .download-button{
+    margin: 5% 3% 5% 0;
+    
+  }
+  /* title image */
+  
+  .dogImage{
+    margin-top: 47px;
+    
+    transform:rotate(25deg);
+    /* position: absolute; */
+  }
+  
+  /* features section */
+  #features{
+    padding:7% 15%;
+    background-color: #fff;
+    position: relative;
+    margin-top: -400px;
+  }
+  h3{
+    font-weight: bold;
+  }
+  p{
+    color:#8f8f8f;
+  }
+  .feature-box{
+    text-align: center;
+    padding:4.5%;
+  }
+  .icon{
+    font-size: 50px;
+    margin-bottom: 1rem;
+    color: #d52b5e;
+  
+  }
+  .icon:hover{
+    color:#c0053d;
+  }
+  
+  /* testimonial item */
+  
+  #testimonials{
+    
+    text-align: center;
+    background-color:#d52b5e;
+    color:#fff;
+  }
+  
+  .testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+  
+  }
+  
+  #press{
+   background-color:#d52b5e;
+   text-align: center;
+   padding-bottom: 3rem;
+  }
+  
+  .press-logo{
+    width: 15%;
+    margin:29px 20px 50px;
+  }
+  
+  .carousel-item{
+    padding:7% 15%;
+  }
+  
+  /* card pricing */
+  
+  #pricing{
+    padding: 100px;
+  }
+  
+  .pricing-colomn{
+    padding: 3% 2%;
+  
+  }
+  .card{
+    text-align: center;
+  }
+  .btn-primary{
+    background-color: #5c6060;
+    border-color: #7f8786;
+  }
+  .btn-primary:hover{
+    background-color: #000000;
+  }
+  .btn-outline-primary{
+    border-color:#7f8786 ;
+    color:#000000;
+  }
+  .btn-outline-primary:hover{
+    background-color: #000000;
+    border-color: #7f8786;
+  }
+  
+  /* section */
+  
+  #cta{
+  background-color:#d52b5e;
+  color: #fff;
+  text-align: center;
+  padding: 10% 0 10% 0;
+  
+  }
